@@ -27,17 +27,17 @@ border-radius: 100px;
 </style>
 
 
-<a href="file:NSBall.html"><button type="submit" class="submit-btn"><h2 style="color:White">Играть<h2></button></a>
+<a href="NSBall.html"><button type="submit" class="submit-btn"><h2 style="color:White">Играть<h2></button></a>
 <h3> <h3>
-<a href="file:register.php"><button type="submit" class="submit-btn"><h2 style="color:White">Сосать<h2></button></a>
+<a href="register.php"><button type="submit" class="submit-btn"><h2 style="color:White">Сосать<h2></button></a>
 <h3> <h3>
-<a href="file:skin.html"><button type="submit" class="submit-btn"><h2 style="color:White">Выбор персонажа<h2></button></a>
+<a href="skin.html"><button type="submit" class="submit-btn"><h2 style="color:White">Выбор персонажа<h2></button></a>
 <h3> <h3>
-<a href="file:league.html"><button type="submit" class="submit-btn"><h2 style="color:White">Официальный турнир<h2></button></a>
+<a href="league.html"><button type="submit" class="submit-btn"><h2 style="color:White">Официальный турнир<h2></button></a>
 <h3> <h3>
-<a href="file:updates.html"><button type="submit" class="submit-btn"><h2 style="color:White">О нас<h2></button></a>
+<a href="updates.html"><button type="submit" class="submit-btn"><h2 style="color:White">О нас<h2></button></a>
 <h3> <h3>
-<a href="file:importantlinks.html"><button type="submit" class="submit-btn"><h2 style="color:White">Важные ссылки<h2></button></a>
+<a href="importantlinks.html"><button type="submit" class="submit-btn"><h2 style="color:White">Важные ссылки<h2></button></a>
 
 
 <strong><h6 style="color:white">© Все права принадлежат владельцу проекта - Jora young</h6><strong>
